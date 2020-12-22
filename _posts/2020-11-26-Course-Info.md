@@ -9,3 +9,7 @@ Start these course and complete it. It's a public announcement! **No Excuses!**
 
 
 2. [A practical introduction to quantum computing: from qubits to quantum machine learning and beyond](https://home.cern/events/webcasts/practical-introduction-quantum-computing-qubits-quantum-machine-learning-and-0)
+
+Try these courses too.
+
+* [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh/)
